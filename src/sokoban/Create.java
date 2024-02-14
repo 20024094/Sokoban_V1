@@ -6,7 +6,7 @@ package sokoban;
  * Application: Assessment 1 Sokoban
  * Version: 1.0
  * Date: 14/02/2024
- * Files: Create.java
+ * File: Create.java
  *
  * @author Daniel Barbu: 20024094
  */
