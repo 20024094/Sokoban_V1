@@ -14,7 +14,7 @@ import javax.swing.JPanel;
  * Application: Assessment 1 Sokoban
  * Version: 1.0
  * Date: 14/02/2024
- * Files: Sokoban.java
+ * File: Sokoban.java
  *
  * @author Daniel Barbu: 20024094
  */
