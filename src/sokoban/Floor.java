@@ -11,7 +11,7 @@ package sokoban;
  * @author Daniel Barbu: 20024094
  */
 
-public class Floor extends MapElement {
+public class Floor extends MapElement {   
     
     public Floor() {
         
